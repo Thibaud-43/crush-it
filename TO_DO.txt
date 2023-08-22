@@ -1,0 +1,5 @@
+1) setup react 
+2) setup nest
+3) deploy front on vercel
+4) deploy back on aws
+5) autentifications
